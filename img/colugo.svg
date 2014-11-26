@@ -1,43 +1,21 @@
 <svg xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink='http://www.w3.org/1999/xlink' xmlns="http://www.w3.org/2000/svg" width="39" height="27" viewBox="0 0 394 275" version="1.1">
-
-<style>.s0{fill:#000;stroke-linecap:square;stroke-width:0.2;stroke:#000;}</style>
-
-<defs>
-
-  <linearGradient>
-
-   <stop offset="0" style="stop-color:#962000;stop-opacity:1"/>
-
-  </linearGradient>
-
-  <linearGradient>
-
-   <stop offset="0" style="stop-color:#44d400;stop-opacity:1"/>
-
-  </linearGradient>
-
-  <linearGradient>
-
-   <stop offset="0" style="stop-color:#cf0064;stop-opacity:1"/>
-
-  </linearGradient>
-
-</defs>
-
-<title>Colugo Logo</title>
-
-<path d="m196.6 254.6 0 0" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1;stroke:#ff19ff"/>
-
-<path d="M24.3 36.4C22.5 38.2 1.2 38.4-0.6 36.6-2.4 34.9-2.5 13.5-0.8 11.7 0.9 10 22.3 9.8 24.1 11.5c1.8 1.7 1.9 23.1 0.2 24.9z" transform="matrix(14.117924,0,0,9.8575956,31.048244,-100.50127)" fill="param(backcolor) #4f6373"/>
-
-<path d="m56.2 19.2c21.3 57.7 57.2 116.7 22.3 169.1 57.7 1.2 88.4 25 118.1 74.5 29.7-49.5 54.8-74 112.5-75.2-25.5-54.6 15.5-112.1 27.9-168.4l-98.8 58c-0.2-2.5-0.8-5-1.6-7.3a10 9.6 0 0 0 5.5-8.6 10 9.6 0 0 0-10-9.6 10 9.6 0 0 0-8.5 4.5c-7.3-3.8-16.6-5.6-25.9-5.4-8.9 0.1-17.7 2-24.8 5.6a10 9.6 0 0 0-8.3-4.3 10 9.6 0 0 0-10 9.6 10 9.6 0 0 0 4.6 8.1c-1.2 2.6-1.9 5.4-2.3 8.3L56.2 19.2Z" fill="param(facecolor) #d9d7ac" style="stroke-linecap:round;stroke-linejoin:round;stroke-width:5.1;stroke:#000"/>
-
-<path d="m84.7 57.7c66.2 96.4 17.8 118.1 17.8 118.1 46 0.8 70.5 17.5 94.2 52 23.7-34.6 43.8-51.7 89.8-52.5 0 0-27.8-37.3 22.2-117.6l-73 37.5c-4.4 14-13.4 27.6-21.2 34.4-14.4 12.7-22.5 11-35.4 0-8.8-7.4-17.2-20.6-20.8-34.1L84.7 57.7Z" fill="param(bodycolor) #8f8164"/>
-
-<ellipse cx="179.4" cy="84" rx="6.4" ry="12" class="s0"/>
-
-<ellipse cx="215.1" cy="84" rx="6.4" ry="12" class="s0"/>
-
-<script type="text/ecmascript" xlink:href="../script/svgparam.js"/>
-
+  <style>.s0{fill:#000;stroke-linecap:square;stroke-width:0.2;stroke:#000;}</style>
+  <defs>
+    <linearGradient>
+      <stop offset="0" style="stop-color:#962000;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient>
+      <stop offset="0" style="stop-color:#44d400;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient>
+      <stop offset="0" style="stop-color:#cf0064;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <path d="m196.6 254.6 0 0" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1;stroke:#ff19ff"/>
+  <path d="M24.3 36.4C22.5 38.2 1.2 38.4-0.6 36.6-2.4 34.9-2.5 13.5-0.8 11.7 0.9 10 22.3 9.8 24.1 11.5c1.8 1.7 1.9 23.1 0.2 24.9z" transform="matrix(14.117924,0,0,9.8575956,31.048244,-100.50127)" fill="param(backcolor) #4f6373"/>
+  <path d="m56.2 19.2c21.3 57.7 57.2 116.7 22.3 169.1 57.7 1.2 88.4 25 118.1 74.5 29.7-49.5 54.8-74 112.5-75.2-25.5-54.6 15.5-112.1 27.9-168.4l-98.8 58c-0.2-2.5-0.8-5-1.6-7.3a10 9.6 0 0 0 5.5-8.6 10 9.6 0 0 0-10-9.6 10 9.6 0 0 0-8.5 4.5c-7.3-3.8-16.6-5.6-25.9-5.4-8.9 0.1-17.7 2-24.8 5.6a10 9.6 0 0 0-8.3-4.3 10 9.6 0 0 0-10 9.6 10 9.6 0 0 0 4.6 8.1c-1.2 2.6-1.9 5.4-2.3 8.3L56.2 19.2Z" fill="param(facecolor) #d9d7ac" style="stroke-linecap:round;stroke-linejoin:round;stroke-width:5.1;stroke:#000"/>
+  <path d="m84.7 57.7c66.2 96.4 17.8 118.1 17.8 118.1 46 0.8 70.5 17.5 94.2 52 23.7-34.6 43.8-51.7 89.8-52.5 0 0-27.8-37.3 22.2-117.6l-73 37.5c-4.4 14-13.4 27.6-21.2 34.4-14.4 12.7-22.5 11-35.4 0-8.8-7.4-17.2-20.6-20.8-34.1L84.7 57.7Z" fill="param(bodycolor) #8f8164"/>
+  <ellipse cx="179.4" cy="84" rx="6.4" ry="12" class="s0"/>
+  <ellipse cx="215.1" cy="84" rx="6.4" ry="12" class="s0"/>
+  <script type="text/ecmascript" xlink:href="../script/svgparam.js"/>
 </svg>
