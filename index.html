@@ -8,10 +8,36 @@
   <link rel="stylesheet" href="stylesheet/style.css" type="text/css" media="screen" />
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?v=2">
 
+
+<script>
+
+var myVar=setInterval(function(){calculateWeeks()},1000 * 1);
+
+function calculateWeeks() {
+    var theDate = new Date("April 20, 2015");
+    var oneDay = 24*60*60*1000;
+    var today = new Date();
+    var days = Math.floor(Math.abs((today.getTime() - theDate.getTime())/(oneDay)));
+    var daysLeft = days % 7;
+    var weeks = Math.floor(days / 7);
+
+	document.getElementById("weeks").innerHTML = weeks + " weeks, " + daysLeft + " days";
+}
+
+
+</script>
+
+
 </head>
 <body>
     <div class="centered">
         <object type="image/svg+xml" data="img/colugo.svg" style="width: 600px; display:inline;"></object>
+<<<<<<< Updated upstream
+=======
+    </div>
+    <div class="centered">
+		<font color="white"><p id="weeks"></p></font>
+>>>>>>> Stashed changes
     </div>
 </body>
 </html>
